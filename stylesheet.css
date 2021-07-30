@@ -1,0 +1,34 @@
+@media only screen and (max-width: 600px) {
+  .adjustptop {
+    padding-top: 2rem !important;
+  }
+  .centertext {
+    text-align: center;
+  }
+  .adjustcardptop {
+    padding-top: 2rem !important;
+  }
+  .cardwidthadjust {
+    width: 80% !important;
+  }
+  .adjustpaddingcardsec {
+    padding-top: 2rem !important;
+  }
+  .carouselheight {
+    height : 15rem !important;
+  }
+  .carouselpadding {
+    padding-top: 0rem !important;
+  }
+  .carouselwidth {
+    width: 100% !important;
+  }
+  .carouselpaddingbtm {
+    padding-bottom: 1rem !important;
+  }
+}
+
+
+@media only screen and (max-width: 768px) {
+    
+  }
